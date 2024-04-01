@@ -1,6 +1,4 @@
 #------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 7
-#
 #  make                     makes Order
 #  make DictionaryTest    makes DictionaryTest
 #  make clean               removes all binaries
