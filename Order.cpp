@@ -1,7 +1,4 @@
 // /****************************************************************************************
-// *  Ugonna Ezeokoli
-// *  uezeokol
-// *  2024 Winter CSE101 PA5
 // *  Order.cpp
 // *  Constructs Dictionary from input file and outputs the inorder and preoder representation in output file
 // *****************************************************************************************/
