@@ -1,8 +1,3 @@
-Ugonna Ezeokoli 
-uezeokol
-2024 Winter CSE101 PA7 
-README.md
-
 Files:
 
 1. Dictionary.h:
