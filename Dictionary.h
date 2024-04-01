@@ -1,7 +1,4 @@
 //-----------------------------------------------------------------------------
-// Ugonna Ezeokoli
-// uezeokoli
-// 2024 Winter CSE101 PA7
 // Dictionary.h
 // Header file for Dictionary ADT based on a Binary Search Tree. Includes a
 // built in iterator called current that can perform a smallest-to-largest
